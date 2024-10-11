@@ -1,7 +1,7 @@
 # HoChiMinh (REST Using Apache Wink [XML/JSON])
 Code Samples for the Blog Article [REST Using Apache Wink (XML/JSON)] 
 <br>
-MIT License, Copyright (c) 2018-19, <a href="https://www.techcto.online/">Sumith Kumar Puri</a><br>
+MIT License, Copyright (c) 2018-19, <a href="http://www.techcto.online/">Sumith Kumar Puri</a><br>
 https://github.com/sumithpuri 
 <br>
 
